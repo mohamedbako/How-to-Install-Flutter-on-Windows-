@@ -16,6 +16,8 @@
 ```bash
 https://dart.dev/tools/sdk/archive
 ```  
+![1](https://user-images.githubusercontent.com/33379873/200084829-b9407bb3-d4cb-4a64-8cf3-e8bb13103f20.png)
+
 
 2- Download **Fultter** (Download the latest version): 
 
@@ -39,6 +41,7 @@ https://drive.google.com/file/d/18XvvCPecLmazY-2i_MqbXruKOXM1cs2w/view?usp=share
 - Copy the path
 - Go to: `PC -> Properties -> Advanced system settings -> Environment variable `
 - Click on: `Path -> Edit ->  New -> and Paste (C:\dart(or dart-sdk)\bin)`
+
 
 ### 2- Extract  **Fultter** and move it to disk ( C ):
 - Go to: `C:\Fultter\bin`

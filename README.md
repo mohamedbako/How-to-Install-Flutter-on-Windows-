@@ -6,9 +6,6 @@
 
 
 
-# How to Install Flutter on Windows?
-
-
 ## 1- Download
 
 1- Download **Dart**:

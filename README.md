@@ -81,7 +81,7 @@ And
 ![8](https://user-images.githubusercontent.com/33379873/200085200-56e139c3-cbdf-4c59-888f-ee8bdd452e8b.png)
 ![9](https://user-images.githubusercontent.com/33379873/200085206-3cd1fc5d-1641-42c4-b49f-cfe3aff1c37d.png)
 
-- Now choose: `File -> Settings -> Plugins`
+- Now choose: `File -> Settings -> Plugins`. And Install Dart and Flutter:
 
 
 ![10](https://user-images.githubusercontent.com/33379873/200085208-bc955fbc-10d5-4401-bd8b-c6ddfcd699f0.png)

@@ -80,6 +80,10 @@ And
 
 ![8](https://user-images.githubusercontent.com/33379873/200085200-56e139c3-cbdf-4c59-888f-ee8bdd452e8b.png)
 ![9](https://user-images.githubusercontent.com/33379873/200085206-3cd1fc5d-1641-42c4-b49f-cfe3aff1c37d.png)
+
+- Now choose: `File -> Settings -> Plugins`
+
+
 ![10](https://user-images.githubusercontent.com/33379873/200085208-bc955fbc-10d5-4401-bd8b-c6ddfcd699f0.png)
 
 - Copy Android SDK Location and following steps as shown in the figure:
@@ -89,7 +93,7 @@ And
 ![12](https://user-images.githubusercontent.com/33379873/200086141-3aa7dda3-5880-4138-b0ed-cdd480cc77e0.png)
 
 
-- Now choose: `File -> Settings -> Plugins`
+
 
 
 ## 4- CMD

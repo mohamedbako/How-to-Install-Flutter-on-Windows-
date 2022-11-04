@@ -79,26 +79,4 @@ flutter doctor --android-licenses
 ```
 
 
-
-```http
-Doctor summary (to see all details, run flutter doctor -v):
-[√] Flutter (Channel stable, 3.3.6, on Microsoft Windows [Version 10.0.19043.2130], locale en-US)
-[√] Android toolchain - develop for Android devices (Android SDK version 33.0.0)
-[X] Chrome - develop for the web (Cannot find Chrome executable at .\Google\Chrome\Application\chrome.exe)
-    ! Cannot find Chrome. Try setting CHROME_EXECUTABLE to a Chrome executable.
-[!] Visual Studio - develop for Windows (Visual Studio Enterprise 2022 17.3.1)
-    X Visual Studio is missing necessary components. Please re-run the Visual Studio installer for the "Desktop
-      development with C++" workload, and include these components:
-        MSVC v142 - VS 2019 C++ x64/x86 build tools
-         - If there are multiple build tool versions available, install the latest
-        C++ CMake tools for Windows
-        Windows 10 SDK
-[√] Android Studio (version 2021.2)
-[√] VS Code (version 1.72.2)
-[√] Connected device (2 available)
-[√] HTTP Host Availability
-
-! Doctor found issues in 2 categories.
-```
-
 ## done
